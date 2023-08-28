@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99663760.css",
+    "main.js": "/static/js/main.e2833243.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/saroj-kumar-resume.pdf": "/static/media/saroj-kumar-resume.faae938bc28c24650d16.pdf",
+    "index.html": "/index.html",
+    "main.99663760.css.map": "/static/css/main.99663760.css.map",
+    "main.e2833243.js.map": "/static/js/main.e2833243.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99663760.css",
+    "static/js/main.e2833243.js"
+  ]
+}
